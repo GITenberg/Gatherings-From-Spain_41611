@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41260
     wikipedia: http://en.wikipedia.org/wiki/Richard_Ford_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41611#Gatherings-From-Spain
 gutenberg_issued: '2012-12-12'
 gutenberg_type: Text
 identifiers:
